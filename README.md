@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Bruno Jacomini <img src="https://emojis.slackmojis.com/emojis/images/1580448086/7667/think-about-it.png?1580448086" width="30"/></h1>
+<h1 align="center">Olá, me chamo Bruno Jacomini, Bem vindo ao meu Github! <img src="https://emojis.slackmojis.com/emojis/images/1580448086/7667/think-about-it.png?1580448086" width="30"/></h1>
 
 <div align="center">
   
@@ -31,6 +31,7 @@
   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xampiis)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosjacomini18@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-jacomini-b3916a17a/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-230077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoexd/)
   
 </div>
 
