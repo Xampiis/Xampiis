@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  <p>Cursando Sistemas para Internet - Turma (2019)(Unialfa de Umuarama)</p>
-  <p>Cursando Pós Graduação em WebDev - Turma (2021) (Unialfa de Umuarama)</p>
+  <p>Cursando Sistemas para Internet - Turma (2019)(Unialfa de Umuarama)</p
 
 </div>
 
