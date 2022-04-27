@@ -1,6 +1,6 @@
 <h1 align="center">Hello, what's up?! I'm Bruno Jacomini, Welcome to my Github! <img src="https://emojis.slackmojis.com/emojis/images/1580448086/7667/think-about-it.png?1580448086" width="20"/></h1>
 
-<div align="center">
+<div align="left">
   
   <ul>
     <li>Graduated on Sistems for Internet</li>
