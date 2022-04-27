@@ -1,8 +1,9 @@
-<h1 align="center">Olá, me chamo Bruno Jacomini, Bem vindo ao meu Github! <img src="https://emojis.slackmojis.com/emojis/images/1580448086/7667/think-about-it.png?1580448086" width="30"/></h1>
+<h1 align="center">Hello, whats's up!? I'm Bruno Jacomini, Welcome to my Github! <img src="https://emojis.slackmojis.com/emojis/images/1580448086/7667/think-about-it.png?1580448086" width="20"/></h1>
 
 <div align="center">
   
-  <p>Cursando Sistemas para Internet - Turma (2019)(Unialfa de Umuarama)</p
+  <ul>Graduated on Sistems for Internet</ul>
+  <ul>I'm Studying Javascript, Typescript, React.JS, Node.JS, SQL</ul>
 
 </div>
 
