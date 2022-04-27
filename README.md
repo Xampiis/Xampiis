@@ -2,8 +2,10 @@
 
 <div align="center">
   
-  <ul>Graduated on Sistems for Internet</ul>
-  <ul>I'm Studying Javascript, Typescript, React.JS, Node.JS, SQL</ul>
+  <ul>
+    <li>Graduated on Sistems for Internet</li>
+    <li>I'm Studying Javascript, Typescript, React.JS, Node.JS, SQL</li>
+  </ul>
 
 </div>
 
